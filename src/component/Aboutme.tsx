@@ -16,6 +16,10 @@ function AboutMe() {
             Solitions as a Process Executive.
           </p>
         </div>
+        <div>
+          <p className="text-2xl m-20">I am very existed in developing Web sites I joined in TATA NEO SKILLS which 
+            i was certified also and i have done Amazon clone Project.</p>
+        </div>
       </div>
     </div>
   );
